@@ -3,3 +3,5 @@ Implemented Hidden Markov Model training and used it to predict the joint probab
 Implemented max a posteriori inference to predict the POS tags of a sentence. 
 Conducted quantitive experiments on training and validation sets. 
 Graphically represented performances of different values of hyperparameter with Matplotlib.
+
+/This project was under the curriculum of course CMPUT 463 at the University of Alberta./
